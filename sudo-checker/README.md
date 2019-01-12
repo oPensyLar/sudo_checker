@@ -4,11 +4,6 @@ How to use it
 
 
 
-```
-
-
-```
-
 
 
 
@@ -30,22 +25,10 @@ chmod +x sudo_checker.sh
 ```
 
 
-```
-
-
-
-
-```
-
 
 CSV files
 -------
 
-
-```
-
-
-```
 
 
 
@@ -59,12 +42,7 @@ Possible values:
 |                                                        |
 |                                                        |
 
-```
 
-
-
-
-```
 
 **/tmp/sudoers_svc.csv** Will contain running processes that have svc_* privileges
 
@@ -74,12 +52,6 @@ Possible values:
 |:-------------------------------------------------------:|---------------------------------------------------|-------------------------------------------------------------|
 | Value that will refer to the "Process Identifier" | Value that will refer to the "Process name" |  Name of the user account who initiated the process |
 
-```
-
-
-
-
-```
 
 
 **/tmp/sudoers_home.csv** It will contain the names of users that are allowed access to sudo from the enumeration of the folder in /home
@@ -97,23 +69,11 @@ Possible values:
 
 
 
-```
-
-
-
-
-```
 
 
 Q & A
 -------
 
-
-
-```
-
-
-```
 
 
 
@@ -124,12 +84,6 @@ Q & A
 
 
 
-```
-
-
-
-
-```
 
 
 ** Example: **
@@ -156,24 +110,12 @@ Q & A
 
 
 
-```
-
-
-
-
-```
-
 
 
 Tested on
 -------
 
 
-
-```
-
-
-```
 
 
 
